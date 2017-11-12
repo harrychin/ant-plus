@@ -1,0 +1,8 @@
+[package]
+name = "ant-plus"
+version = "0.0.1"
+authors = ["Harrison Chin <harrison.chin@thisisant.com>"]
+description = "A Rust crate providing an implementation of ANT+ Wireless Device Profiles."
+license = "Apache-2.0"
+
+[dependencies]
